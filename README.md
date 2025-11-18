@@ -1,2 +1,5 @@
-# random-fact-2025-11-18T06-22-12.204Z-308random-fact-2025-11-18T06-22-12.204Z-308
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The word "comet" comes from the Greek word "kometes" meaning long hair and referring to the tail
+
+*Generated on 2025-11-18T06:22:13.784Z*
